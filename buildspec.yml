@@ -1,5 +1,7 @@
 version: 0.2
 
+hello
+
 phases:
   install:
     runtime-versions:
